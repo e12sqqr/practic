@@ -5,6 +5,36 @@ Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 
 A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](CONTRIBUTING.md)!
 
+
+# Tools frequently used in Zhou Lab
+
+### 1. Command-line tools
+* __[samtools]()__ - SAM/BAM file operations
+* __[bedtools]()__ - Genomic interval operations
+* __[conda]()__ - Software environment managment
+
+### 2. Python packages
+
+* __[pysam]()__ - Python interface to SAMtools
+* __[pybedtools]()__ - Python interfact to BEDTools
+* __[bx-python]()__ - Backend library for Galaxy platform
+* __[Biopython]()__ - BioPerl-like package in Python
+* __[snakemake]()__ - Workflow/Pipeline management
+* __[matplotlib]()__ - Plotting
+* __[seaborn]()__ - Better Plotting based on matplotlib
+* __[numpy]()__ - Useful for array operations
+* __[pandas]()__ - R-like DataFrame in Python
+
+### 3. R packages
+
+
+
+
+
+#======
+
+
+
 **Table of Contents**
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
